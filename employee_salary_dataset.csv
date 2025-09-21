@@ -1,0 +1,6 @@
+age,workclass,fnlwgt,marital-status,occupation,relationship,race,gender,capital-gain,capital-loss,hours-per-week,native-country,educational-num,salary
+35,Private,84275,Married,Tech,Husband,White,Male,2039,0,42,United-States,13,76431
+45,Government,76533,Single,Sales,Not-in-family,Black,Female,3021,123,38,India,12,72245
+29,Self-emp,92345,Divorced,Exec-managerial,Wife,Asian-Pac-Islander,Female,0,0,45,Canada,10,64812
+50,Private,65743,Married,Clerical,Husband,Amer-Indian-Eskimo,Male,1284,53,50,Mexico,14,81627
+38,Government,73456,Married,Tech,Husband,White,Male,5000,0,48,India,16,89450
