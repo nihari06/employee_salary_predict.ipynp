@@ -14,8 +14,6 @@ This project predicts whether an employee earns more than **$50K or less/equal t
 
 ---
 
-## Overview of this project
-
 ##  Problem Statement
 
 Employee salary prediction is a critical task in workforce analytics. The goal of this project is to predict whether an employee earns more than $50K or less/equal to $50K per year using demographic and work-related attributes. By applying machine learning algorithms on the Adult Census Income dataset, the project aims to evaluate and compare different models to understand which performs best for salary classification/prediction tasks.
@@ -23,10 +21,8 @@ Employee salary prediction is a critical task in workforce analytics. The goal o
 ---
 
 
-## project:predicting water quality
-
-<img width="1919" height="1094" alt="Screenshot 2025-07-17 192057" src="https://github.com/user-attachments/assets/b096f99d-821f-4961-bf22-0fa516783154" />
-<img width="1903" height="1106" alt="Screenshot 2025-07-17 192126" src="https://github.com/user-attachments/assets/df6e28ca-0267-4793-bcbd-9819ed764cc7" />
+## project:predicting Salary
+<img width="1396" height="704" alt="Screenshot 2025-09-21 191012" src="https://github.com/user-attachments/assets/06067bed-7a61-480a-b2e1-842fdba70797" />
 
 ---
 
