@@ -1,4 +1,4 @@
-#     Employee salary Prediction 
+#    💼💰Employee salary Prediction 
 
 This project predicts whether an employee earns more than **$50K or less/equal to $50K per year** based on their demographic and work-related attributes. It is built with Python and Streamlit and uses a trained model saved as adult.csv.
 
@@ -21,7 +21,7 @@ Employee salary prediction is a critical task in workforce analytics. The goal o
 ---
 
 
-## project:predicting Salary
+## project: Predicting Salary
 <img width="1396" height="704" alt="Screenshot 2025-09-21 191012" src="https://github.com/user-attachments/assets/06067bed-7a61-480a-b2e1-842fdba70797" />
 
 ---
